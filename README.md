@@ -8,3 +8,5 @@
   - The activation function is the Sigmoid Activation
   - Loss is calculated with the categorical cross-entropy loss function
     - By extension, the labels were converted to one-hot encoded vectors  
+
+* Inspired by [this](https://www.youtube.com/watch?v=pauPCy_s0Ok&t=1320s&ab_channel=TheIndependentCode) video!
